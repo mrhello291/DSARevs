@@ -13,6 +13,10 @@ I have listed all the questions topic wise good POTDs and problems from other so
 ## DP
 - https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii
 
+## Graphs
+- https://leetcode.com/problems/contain-virus
+
 
 ## Mixed
 - https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements
+- https://leetcode.com/problems/maximum-score-from-removing-substrings
