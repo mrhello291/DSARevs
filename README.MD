@@ -15,8 +15,20 @@ I have listed all the questions topic wise good POTDs and problems from other so
 
 ## Graphs
 - https://leetcode.com/problems/contain-virus
+- https://leetcode.com/problems/minimum-score-after-removals-on-a-tree
 
+## Stacks, Queues, Two Pointer, Sliding Window, Binary Search, Arrays
+- https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii
+- https://leetcode.com/problems/minimum-deletions-to-make-string-k-special
+- https://leetcode.com/problems/maximum-score-from-removing-substrings
+
+## Data Strucutres
+- https://leetcode.com/problems/insert-delete-getrandom-o1
 
 ## Mixed
 - https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements
 - https://leetcode.com/problems/maximum-score-from-removing-substrings
+- https://leetcode.com/problems/the-skyline-problem
+- https://leetcode.com/problems/replace-non-coprime-numbers-in-array
+- https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+- 
