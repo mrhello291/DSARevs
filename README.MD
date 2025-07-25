@@ -21,6 +21,7 @@ I have listed all the questions topic wise good POTDs and problems from other so
 - https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii
 - https://leetcode.com/problems/minimum-deletions-to-make-string-k-special
 - https://leetcode.com/problems/maximum-score-from-removing-substrings
+- https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays [Full reattempt needed]
 
 ## Data Strucutres
 - https://leetcode.com/problems/insert-delete-getrandom-o1
