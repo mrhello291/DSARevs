@@ -22,6 +22,8 @@ I have listed all the questions topic wise good POTDs and problems from other so
 - https://leetcode.com/problems/minimum-deletions-to-make-string-k-special
 - https://leetcode.com/problems/maximum-score-from-removing-substrings
 - https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays [Full reattempt needed]
+- https://leetcode.com/problems/closest-equal-element-queries
+- https://leetcode.com/problems/find-in-mountain-array
 
 ## Data Strucutres
 - https://leetcode.com/problems/insert-delete-getrandom-o1
@@ -32,4 +34,4 @@ I have listed all the questions topic wise good POTDs and problems from other so
 - https://leetcode.com/problems/the-skyline-problem
 - https://leetcode.com/problems/replace-non-coprime-numbers-in-array
 - https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
-- 
+- https://leetcode.com/problems/guess-the-word
